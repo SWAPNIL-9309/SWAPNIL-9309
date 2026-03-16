@@ -79,9 +79,6 @@
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SWAPNIL-9309&show_icons=true&theme=tokyonight" />
-</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAPNIL-9309&layout=compact&theme=tokyonight" />
